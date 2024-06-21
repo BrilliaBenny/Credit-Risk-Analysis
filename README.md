@@ -1,8 +1,7 @@
 # Credit-Risk-Analysis
 This repository contains a Python script for performing comprehensive analysis on a credit risk dataset. The script covers data exploration, preprocessing, and model building using various machine learning algorithms.
 
-
-##Key Features
+## Key Features
 
 Data Exploration: Analyzed data distribution, correlations, and missing values.
 Preprocessing: Handled missing data, performed feature engineering using one-hot encoding for categorical variables.
